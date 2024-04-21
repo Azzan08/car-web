@@ -1,0 +1,42 @@
+body{
+    font-family: "Ubuntu", sans-serif;
+    margin-top: 0;
+    margin-left: 0;
+}
+.first{
+    width: 26%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top:5% ;
+}
+span{
+    color:darkblue;
+    font-size: 25px;
+}
+.img1{
+    border: 3px solid white;
+    height: 360px;
+    width: 360px;
+}
+.img2{
+    border: 3px solid white;
+    height: 360px;
+    width: 390px;
+}
+
+.click{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image:linear-gradient(rgb(184, 140, 140),orange );
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+}
+.click:hover{
+    color: black;
+    font-weight: bolder;
+    width: 30%;
+    font-size: 20px;
+}
+
